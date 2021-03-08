@@ -20,6 +20,5 @@ How to run the program:
 7. Wait for command prompt to return (this means the program is done running)
 8. Open output.csv to see the results
 
-Troubleshooting
-1. The API will fail to pull prices for some companies. It will print these to the screen.
-   Sometimes it's worth it to try re-running the script to get info for these.
+Trouble Shooting
+1. yfinance API will occasionally hang for some prices. Will need to add a fix for this
